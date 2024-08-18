@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 Currently working on **Backend**
 
 - 📫 How to reach me **raushan.shs@nitgoa.ac.in**
 
